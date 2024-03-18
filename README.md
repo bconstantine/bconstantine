@@ -7,4 +7,9 @@ A Gen-Z with a dream of crafting AI for Business Solutions through bridging the 
   <a href="https://www.linkedin.com/in/bryan-constantine/?originalSubdomain=tw">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <div>
+    
+  ![](https://komarev.com/ghpvc/?username=bconstantine)
+  
+  </div>
 </div>
